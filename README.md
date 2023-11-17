@@ -1,2 +1,2 @@
 # shell_chat
-Chat implemented in C
+Chat with Sockets implemented in C
